@@ -9,7 +9,7 @@
 - 技术博客
 - 开源项目推介
 - 学习资源推荐
-- 特别专栏（如云原生、DevOps、测试等）
+- 特别关注（如云原生、DevOps、AI等）
 
 **发布时间**：每周五
 
@@ -17,16 +17,6 @@
 
 - 访问本项目仓库，获取最新一期目录与内容
 - 可通过 Watch 本仓库获取更新提醒
-- 也可通过 RSS 订阅获取最新推送
-
-### RSS 订阅
-
-将周刊 RSS 导入至任意 RSS 阅读器即可订阅。推荐工具：
-- NetNewsWire (macOS/iOS)
-- Fluent Reader (Windows/macOS/Linux)
-- Follow 信息聚合平台
-
-更多 RSS 工具见：[rss-reader Topic](https://github.com/topics/rss-reader)
 
 ## 📚 往期周刊
 
@@ -39,13 +29,13 @@ _周刊内容持续更新中..._
 
 欢迎参与贡献！你可以通过以下方式参与：
 - 提交新周刊内容或推荐有价值的技术资源
-- 提 Issue 反馈建议或问题
-- 提 Pull Request 改进内容
+- 提 [Issue](https://github.com/shenxianpeng/weekly/issues) 反馈建议或问题
+- 提 [Pull Request](https://github.com/shenxianpeng/weekly/pulls) 改进内容
 
 ## 📝 许可证
 
 本项目采用 MIT 许可证
 
-## 🤝 致谢
+## 🤝 分享与支持
 
-感谢所有内容创作者的无私分享和持续创作。如果你喜欢本周刊，请分享给更多朋友，一起看见更广阔的技术世界。
+如果你喜欢本周刊，请分享给更多朋友，一起看见更广阔的技术世界。
